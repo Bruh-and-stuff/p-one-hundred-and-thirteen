@@ -1,0 +1,18 @@
+body{
+    background-color: lightcoral;
+}
+.heading{
+    font-size: 25px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    border-radius: 25px;
+    font-family:monospace;
+}
+.heading span{
+    font-size: 50px;
+}
+#pictaken, #camera{
+    width: 400px;
+    height: 400px;
+    border: dotted;
+}
